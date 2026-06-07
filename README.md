@@ -2,9 +2,9 @@
 
 # WarNet-Mini-Dragon-Ball
 
-El Mini Dron Granada Láser Autodestructivo, WarNet-Mini-Dragon-Ball. Es un sistema de Granada Aerodirigible de Multi-Lásers, Explosivo Multidireccional y conpletamente Auto-Destructivo.
+El Mini Dron Granada Láser Autodestructivo, WarNet-Mini-Dragon-Ball. Es un sistema de Granada Aerodirigible de Multi-Lásers, Explosivo Multidireccional y completamente Auto-Destructivo.
 
-Combinando Tecnologías punta del WarNet-Air, el WarNet-Fly y un mini sistema del WarNet-Radar este dispositivo lazable de gran autonomia puede identificar sus objetivos y Autodestruirse causando una explosión de Láseres Destructivos masivamente con una expansión de la onda entre sus objetivos.
+Combinando Tecnologías punta del WarNet-Air, el WarNet-Fly y un mini sistema del WarNet-Radar este dispositivo lazable de gran autonomia puede identificar sus objetivos y Autodestruirse causando una explosión de Láseres Destructivos masivamente con una expansión de la onda entre objetivos.
 
 
 
