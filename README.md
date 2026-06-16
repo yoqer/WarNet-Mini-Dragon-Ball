@@ -15,5 +15,5 @@ La Mini Granada de Bola de Dragon de WarNet, solo esta disponible para compra mi
 
 Pero tu también puedes adquirir un dispositivo convencional del WarNet-Dragon-Ball para los establecimientos estaticos con laseres convencionales menos destructivos, para proteger tus instalaciones de los molestos [Paparazzis, Fly, Air o Drones.](https://GitHub.com/yoqer/WarNet-Dragon-Ball)
 
-
+Mira usos Reales: [Ucrania](https://m.youtube.com/watch?v=f7IqZY0Co3k&pp=ugUEEgJlcw%3D%3D)
 
